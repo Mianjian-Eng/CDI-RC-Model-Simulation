@@ -19,7 +19,7 @@ The process is modeled as a capacitor in series with a resistor. The governing e
     $$\frac{dC}{dt} = - \frac{I \times \Lambda}{F \times V_{tank}}$$
 
 ## Files Description
-* `CDI_Modeling.ipynb`: The main Jupyter Notebook containing the ODE solver and curve fitting algorithms.
+* `CDI_process_modeling.ipynb`: The main Jupyter Notebook containing the ODE solver and curve fitting algorithms.
 * `requirements.txt`: List of required Python libraries.
 
 ## How to Run
